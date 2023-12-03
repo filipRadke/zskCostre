@@ -1,0 +1,14 @@
+/home/f/Documents/code/costre/tabliczkla/obj/Debug/net7.0/tabliczkla.GeneratedMSBuildEditorConfig.editorconfig
+/home/f/Documents/code/costre/tabliczkla/obj/Debug/net7.0/tabliczkla.AssemblyInfoInputs.cache
+/home/f/Documents/code/costre/tabliczkla/obj/Debug/net7.0/tabliczkla.AssemblyInfo.cs
+/home/f/Documents/code/costre/tabliczkla/obj/Debug/net7.0/tabliczkla.csproj.CoreCompileInputs.cache
+/home/f/Documents/code/costre/tabliczkla/bin/Debug/net7.0/tabliczkla
+/home/f/Documents/code/costre/tabliczkla/bin/Debug/net7.0/tabliczkla.deps.json
+/home/f/Documents/code/costre/tabliczkla/bin/Debug/net7.0/tabliczkla.runtimeconfig.json
+/home/f/Documents/code/costre/tabliczkla/bin/Debug/net7.0/tabliczkla.dll
+/home/f/Documents/code/costre/tabliczkla/bin/Debug/net7.0/tabliczkla.pdb
+/home/f/Documents/code/costre/tabliczkla/obj/Debug/net7.0/tabliczkla.dll
+/home/f/Documents/code/costre/tabliczkla/obj/Debug/net7.0/refint/tabliczkla.dll
+/home/f/Documents/code/costre/tabliczkla/obj/Debug/net7.0/tabliczkla.pdb
+/home/f/Documents/code/costre/tabliczkla/obj/Debug/net7.0/tabliczkla.genruntimeconfig.cache
+/home/f/Documents/code/costre/tabliczkla/obj/Debug/net7.0/ref/tabliczkla.dll
